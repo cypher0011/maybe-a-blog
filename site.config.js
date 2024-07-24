@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "معاذ سامي",
+    name: "Moaz Fouda",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "test developer",
-    bio: "I develop everything using nodet.",
+    role: "-a Hacker & Everything else",
+    bio: "I Hack everything using My laptop 💻 + Even brains.",
     email: "a05445749993@gmail.com",
     linkedin: "https://www.linkedin.com/in/moaz-fouda/",
     github: "https://github.com/cypher0011",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "test-log",
-    description: "test to test-log!",
+    title: "Personal blog",
+    description: "Nahhh",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
